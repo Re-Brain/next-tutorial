@@ -10,6 +10,8 @@ export default async function Contact() {
     return <>
         <div>Contact Page</div>
 
+        <div>This is a contact page</div>
+
         <ButtonComponent/>
     </>
 } 
