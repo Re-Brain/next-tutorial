@@ -25,6 +25,7 @@ This is a Next.js 16.2.6 tutorial project exploring core framework features usin
 
 ```
 app/
+├── hooks/              # Reusable Hooks
 ├── layout.tsx          # Root layout with navigation links
 ├── page.tsx            # Home page
 ├── globals.css         # Tailwind styles
